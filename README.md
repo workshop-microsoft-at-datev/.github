@@ -1,1 +1,1 @@
-# .github
+# Workshop Organisation
